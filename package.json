@@ -1,0 +1,19 @@
+{
+  "name": "react-native-camera-ios-enable",
+  "version": "1.0.0",
+  "description": "Enable IOS Camera by setting privacy text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhdeck/react-native-camera-ios-enable.git"
+  },
+  "author": "Ray Deck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhdeck/react-native-camera-ios-enable/issues"
+  },
+  "homepage": "https://github.com/rhdeck/react-native-camera-ios-enable#readme"
+}
