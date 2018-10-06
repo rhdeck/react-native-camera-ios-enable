@@ -10,10 +10,10 @@ yarn add react-native-camera-ios-enable
 ```
 {
     ...
-    dependencies: {
+    "dependencies": {
         ...
     },
-    IOSCameraPrivacyText: "Please let me use the camera!"
+    "IOSCameraPrivacyText": "Please let me use the camera!"
 }
 ```
 
